@@ -10,7 +10,7 @@
 */
 
 int main() {
-    board eight_queens(16);
+    board eight_queens(8);
     eight_queens.initialization();
     eight_queens.search();
     return 0;
