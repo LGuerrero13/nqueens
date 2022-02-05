@@ -5,7 +5,7 @@ This implementation uses the min-conflict algorithm to select a row for each que
 
 ![ScreenShot](images/screenshot1.png)
 
-![ScreenShot](mages/screenshot2.png)
+![ScreenShot](images/screenshot2.png)
 
 ## Installation
 
