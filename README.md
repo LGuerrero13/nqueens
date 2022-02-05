@@ -3,9 +3,9 @@
 The infamous nqueens problem is used to find how many different ways queens can be arranged on an n x n chessboard such that none of the queens can hit eachother.
 This implementation uses the min-conflict algorithm to select a row for each queen.
 
-![ScreenShot](https://github.com/LGuerrero13/nqueens/tree/main/images/screenshot 1.png)
+![ScreenShot](https://github.com/LGuerrero13/nqueens/tree/main/images/screenshot1.png)
 
-![ScreenShot](https://github.com/LGuerrero13/nqueens/tree/main/images/screenshot 2.png)
+![ScreenShot](https://github.com/LGuerrero13/nqueens/tree/main/images/screenshot2.png)
 
 ## Installation
 
